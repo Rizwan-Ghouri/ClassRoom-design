@@ -1,0 +1,181 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Mainhead{
+    border-bottom: 1px solid  rgb(143, 142, 142);
+    width: 100%;
+    height: 70px;
+    display: flex;
+ 
+}
+.Maincontiner{
+    width: 100%;
+    height: 91%;
+    position: absolute;
+    display: flex;
+}
+.SlideBar{
+    width: 30%;
+    height: 100%;
+    flex-direction: column;
+    border-right: 1px solid  rgb(143, 142, 142); 
+}
+.sablnk{
+    text-decoration: none;
+    color: black;
+}
+.sabmenu{
+    width: 100%;
+    height: 15%;
+    border-bottom: 1px solid rgb(143, 142, 142);
+}
+.sabmenu{
+    width: 100%;
+    height: 15%;
+    border-bottom: 1px solid rgb(143, 142, 142);
+}
+.sabmenuL{
+    width: 100%;
+    height: 28%;
+    border-bottom: 1px solid  rgb(143, 142, 142);
+
+}
+.sbman{
+    width: 95%;
+    height: 40%;
+    margin-right: 3%; 
+    margin-top: 2%;
+    /* border: 1px solid rgb(255, 0, 0); */
+    border: 10%;
+    border-radius: 50px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.sbmanL{
+    width: 95%;
+    height: 27%;
+    margin-right: 3%;
+    margin-top: 2%;
+    /* border: 1px solid rgb(255, 0, 0); */
+    border: 10%;
+    border-radius: 50px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.sbman:hover{
+    background-color: rgba(148, 235, 250, 0.555);
+}
+.sbmanL:hover{
+    background-color: rgba(148, 235, 250, 0.555);
+}
+.Main{
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+.submain{
+    margin: 50px;
+    border-radius: 10px;
+    border: 1px solid rgb(143, 142, 142);
+    width: 35%;
+    height: 50%;
+}
+.name{
+    /* padding-left: 5%; */
+    text-align: justify;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: rgb(47, 117, 47);
+    color: #fff;
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 40%;
+}
+.b1{
+    font-size: 25px;
+}
+.nam1{
+    padding: 5%;
+    padding-left: 6%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.imp{
+    margin-top: -11%;
+    margin-left: 65%;
+    width: 30%;
+    border-radius: 100%;
+}
+.Cname{
+    width: 100%;
+    height: 40%;
+
+}
+.Fname{
+   /* padding-left: 5%; */
+   text-align: justify;
+   font-size: 30px;
+   font-weight: 500;
+   border-radius: 10px;
+   border-top-left-radius: 0px;
+   border-top-right-radius: 0px;
+   /* background-color: rgb(47, 117, 47); */
+   color: #fff;
+   border-top: 1px solid rgb(143, 142, 142);
+   width: 100%;
+   height: 20%;
+}
+.imFname{
+    padding: 3%;
+    padding-left: 70%;
+}
+i{
+    padding-right: 11%;
+}
+.per{
+    padding: 5px;
+    padding-left: 5%;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.perL{
+    padding: 10px;
+    padding-left: 5%;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.perL1{
+    padding-top: 1px;
+    padding-left: 21%;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+}
+.web{
+    padding: 5px;
+    padding-left: 1%;
+    position: absolute;
+    display: inline-block;
+}
+.im1{
+    padding: 20px;
+    width: 50px;
+    height: 50%;
+}
+.im{
+    padding: 15px;
+    padding-left: 0%;
+    width: 15%;
+    height: 60%;
+}
+.im2{
+    padding-left: 56%;
+    /* border: 1px solid; */
+    width: 100%;
+    height: 70px;
+    display: inline-block;
+}
